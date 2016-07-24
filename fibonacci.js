@@ -19,7 +19,7 @@ while (i < 40){
 	i++;
 	
 	
-};
+}
 
 console.log(fib_array);
 
